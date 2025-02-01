@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source machine learning community
 
 ## 📬 Contact
-[Your Name] - [Your Email]
+Yaduraj Singh yadurajsingham@gmail.com
 
 ---
 *Exploring the universe, one exoplanet at a time* 🌠
