@@ -41,7 +41,7 @@ This project leverages advanced machine learning techniques to detect and classi
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/exoplanet-detection.git
+   git clone https://github.com/YadurajManu/exoplanet-detection.git
    cd exoplanet-detection
    ```
 
@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source machine learning community
 
 ## 📬 Contact
-[Your Name] - [Your Email]
+Yaduraj Singh
 
 ---
 *Exploring the universe, one exoplanet at a time* 🌠
